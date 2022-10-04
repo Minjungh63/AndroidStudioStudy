@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2nd_standard</string>
+    <string name="bankbook_list">자산</string>
+    <string name="remittance">송금</string>
+    <string name="Consumption">소비</string>
+    <string name="check_list">내역</string>
+</resources>
